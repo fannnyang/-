@@ -3,34 +3,34 @@
         <caption>个人简历</caption>
         <tr align="center">
             <td>姓名</td>
-            <td></td>
+            <td>杨一帆</td>
             <td>性别</td>
-            <td></td>
+            <td>女</td>
             <td>出生年月</td>
-            <td></td>
+            <td>2000.10</td>
             <td colspan="2" rowspan="4"></td>
         </tr>
         <tr align="center">
             <td>祖籍</td>
-            <td></td>
+            <td>河北省</td>
             <td>民族</td>
-            <td></td>
+            <td>汉族</td>
             <td>政治面貌</td>
-            <td></td>
+            <td>共青团员</td>
         </tr>
         <tr align="center">
             <td>身体状况</td>
-            <td></td>
+            <td>健康</td>
             <td>婚姻状况</td>
-            <td></td>
+            <td>无</td>
             <td>学历</td>
-            <td></td>
+            <td>本科</td>
         </tr>
         <tr align="center">
             <td>毕业学校</td>
-            <td colspan="2"></td>
+            <td colspan="2">石家庄铁道大学</td>
             <td>所学专业</td>
-            <td colspan="2"></td>
+            <td colspan="2">软件工程</td>
         </tr>
         <tr align="center" class="body">
             <td>专业能力</td>
