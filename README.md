@@ -1,12 +1,5 @@
-# -
-洋芋饭的个人主页
+# 洋芋饭的个人主页
 
-
-
-
-
-
-<body>
     <table border="1" cellspacing="0" width=“650” align="center">
         <caption>个人简历</caption>
         <tr align="center">
