@@ -13,6 +13,9 @@
       <img src="/zhengjianzhao.jpg" width="100%">      杨一帆
     </td>
   </tr>
+ <tr>
+  <td>荣誉奖励</td>
+ </tr>
 </table>
 ###个人信息
 ###姓名xxx
