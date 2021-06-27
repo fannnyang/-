@@ -5,26 +5,7 @@
 
 
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <style>
-    	/*通过给td设置高度和宽度，进而确定每一行高度*/
-        td {
-            width: 80px;
-            height: 50px;
-        }
-        caption {
-            font-size: 28px;
-            margin-bottom: 10px;
-        }
-        /*需填内容较多时设置高度*/
-        .body td {
-            height: 150px;
-        }
-    </style>
-</head>
+
 <body>
     <table border="1" cellspacing="0" width=“650” align="center">
         <caption>个人简历</caption>
