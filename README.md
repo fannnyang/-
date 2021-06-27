@@ -1,6 +1,5 @@
 # 洋芋饭的个人主页
-
-    <table border="1" cellspacing="0" width=“650” align="center">
+ <table border="1" cellspacing="0" align="center">
         <caption>个人简历</caption>
         <tr align="center">
             <td>姓名</td>
