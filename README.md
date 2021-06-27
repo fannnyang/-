@@ -34,19 +34,19 @@
         </tr>
         <tr align="center" class="body">
             <td>专业能力</td>
-            <td colspan="7"></td>
+            <td colspan="6"></td>
         </tr>
         <tr align="center" class="body">
             <td>求职意向</td>
-            <td colspan="7"></td>
+            <td colspan="6"></td>
         </tr>
         <tr align="center" class="body">
             <td>获奖情况</td>
-            <td colspan="7"></td>
+            <td colspan="6"></td>
         </tr>
         <tr align="center" class="body">
             <td>自我评价</td>
-            <td colspan="7"></td>
+            <td colspan="6"></td>
         </tr>
     </table>
 
