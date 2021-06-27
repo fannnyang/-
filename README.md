@@ -1,14 +1,14 @@
 # 洋芋饭的个人主页
  <table border="1" cellspacing="0" align="center">
-        <caption>个人简历</caption>
+        <caption  font-size=“28px” margin-bottom=“10px” align="center">个人简历</caption>
         <tr align="center">
-            <td>姓名</td>
+            <td width=“80px”>姓名</td>
             <td>杨一帆</td>
             <td>性别</td>
             <td>女</td>
             <td>出生年月</td>
             <td>2000.10</td>
-            <td colspan="2" rowspan="4"></td>
+            <td colspan="2" rowspan="4">照片 <img src="/zhengjianzhao.jpg" width="100%"></td>
         </tr>
         <tr align="center">
             <td>祖籍</td>
@@ -34,19 +34,19 @@
         </tr>
         <tr align="center" class="body">
             <td>专业能力</td>
-            <td colspan="5"></td>
+            <td colspan="9"></td>
         </tr>
         <tr align="center" class="body">
             <td>求职意向</td>
-            <td colspan="5"></td>
+            <td colspan="9"></td>
         </tr>
         <tr align="center" class="body">
             <td>获奖情况</td>
-            <td colspan="5"></td>
+            <td colspan="9"></td>
         </tr>
         <tr align="center" class="body">
             <td>自我评价</td>
-            <td colspan="5"></td>
+            <td colspan="9"></td>
         </tr>
     </table>
 
